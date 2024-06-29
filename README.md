@@ -18,7 +18,7 @@
 <a href="https://github.com/wkrs15"><img src="https://img.shields.io/badge/GitHub-wkrs14-blue?logo=github" /></a>
 <a href="https://space.bilibili.com/91444391"><img src="https://img.shields.io/badge/哔哩哔哩-Black233-pink?logo=bilibili" /></a>
 <img src="https://img.shields.io/badge/QQ-3483213910-green?logo=tencentqq" />
-<img src="https://komarev.com/ghpvc/?username=wkrs14&abbreviated=true" />
+<img src="https://komarev.com/ghpvc/?username=wkrs15&abbreviated=true" />
 </p>
 
 <p align="center">
